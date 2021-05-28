@@ -1,0 +1,83 @@
+.lector {
+    background-image: url(../img/lector.jpg);
+    background-size: cover;
+}
+.coffee {
+    background-image: url(../img/background-coffee.jpg);
+    background-position: 50%;
+    background-size: cover;
+}
+.coffee-2 {
+    background-image: url(../img/motorcycle.jpg);
+    background-size: cover;
+    background-position: 50%;
+}
+.gatito {
+    background-image: url(../img/gatito3.jpg);
+    background-size: cover;
+}
+.no-repeat {
+    background-repeat: no-repeat;
+}
+.principal {
+    height: 975px;
+}
+.secundario {
+    height: 435px;
+}
+.bandera {
+    width: 200px;
+}
+.justificar {
+    text-align: justify;
+}
+.carta-estandar {
+    width: 48rem;
+}
+.carta-md {
+    width: 24rem;
+}
+.carta-sm {
+    width: 12rem;
+}
+.carta-sin-fondo {
+    background: none;
+    border: none;
+}
+div.avatar {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+    height: 200px;
+    width: 200px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+    margin: auto;
+}
+.bridge {
+    background-image: url(../img/the_bridge.jpg);
+}
+.kibernum {
+    background-image: url(../img/kibernum.png);
+}
+.agilesoft {
+    background-image: url(../img/agilesoft.png);
+}
+.trebol {
+    background-image: url(../img/trebol.png);
+}
+.glgroup {
+    background-image: url(../img/glgroup.png);
+}
+.turavion {
+    background-image: url(../img/turavion.png);
+}
+.margen-auto {
+    margin: auto;
+}
+.terciario {
+    height: 100%;
+    background: rgb(51, 2, 12) no-repeat;
+    background-size: cover;
+}
